@@ -1,4 +1,4 @@
-//Diabetic Retinopathy Risk Predictor//
+//Diabetic Retinopathy Risk Predictor//(under progress currently!!)
 Full-Stack Machine Learning Application
 
 Project Summary
